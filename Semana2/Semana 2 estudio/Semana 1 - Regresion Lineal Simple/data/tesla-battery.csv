@@ -1,0 +1,100 @@
+forumnaam,ID,firmwarerelease,gemiddeld verbruik (bin),batterijtype,batterijvermogen,datum invoer,firmwareversie,forumnaam (copy),leverdatum,nieuwe batterij,opmerkingen,rangemode aan/uit,aantal keer leeg,aantal keer SuC,aantal rangecharges,gemiddeld verbruik,kmstand,kmstand berekening,kmstand bij vervanging batterij,kmstand huidige batterij,kmstand huidige batterij,Number of Records,percentage,rated range,typical range
+RealNuke,76,,270 Wh/km,,85 kWh,1/15/15,V6.1,realnuke,,nee,,uit,10,30,20,270 Wh/km,32080,32080,0,"32,080 km",32080,1,95.00%,,380 km
+MisterGreen,101,,,,85 kWh,2/2/15,,mistergreen,,nee,,,,,,,50000,50000,0,"50,000 km",50000,1,96.50%,,386 km
+Go4IT,7,1.65.15,220 Wh/km,B,85 kWh,9/19/14,V6.0,go4it,9/10/13,nee,drive unit replaced twice,,3,25,300,220 Wh/km,67000,67000,0,"67,000 km",67000,1,96.30%,482,385 km
+Go4IT,53,1.65.15,210 Wh/km,B,85 kWh,11/10/14,V6.0,go4it,9/10/13,nee,drive unit replaced twice,,3,25,300,218 Wh/km,73000,73000,0,"73,000 km",73000,1,94.80%,475,379 km
+Go4IT,60,1.65.15,220 Wh/km,B,85 kWh,11/25/14,V6.0,go4it,9/10/13,nee,drive unit replaced twice,,3,35,320,220 Wh/km,74500,74500,0,"74,500 km",74500,1,95.00%,476,380 km
+Go4IT,80,1.65.15,220 Wh/km,B,85 kWh,1/16/15,V6.0,go4it,9/10/13,nee,drive unit replaced twice,aan,4,45,340,220 Wh/km,84000,84000,0,"84,000 km",84000,1,93.80%,469,375 km
+Maarten ST,34,1.65.15,230 Wh/km,D,85 kWh,9/27/14,V6.0,maarten st,9/13/13,ja,,,1,12,6,233 Wh/km,28600,6000,22600,"6,000 km",6000,1,98.50%,490,394 km
+Maarten ST,93,2.0.77,230 Wh/km,D,85 kWh,1/24/15,V6.0,maarten st,9/13/13,ja,21 inch P85+,,1,14,12,233 Wh/km,39600,17000,22600,"17,000 km",17000,1,96.30%,,385 km
+JCK,24,1.65.15,200 Wh/km,,85 kWh,9/25/14,V6.0,jck,9/19/13,nee,drive unit replaced twice,,0,20,20,204 Wh/km,39200,39200,0,"39,200 km",39200,1,96.30%,,385 km
+pjhartog,32,1.65.15,,,85 kWh,9/26/14,V6.0,pjhartog,9/19/13,nee,"Merijn: range 288 ingevuld, aangepast naar 388",,0,10,10,,26000,26000,0,"26,000 km",26000,1,97.00%,485,388 km
+DLB,62,1.65.15,220 Wh/km,,85 kWh,11/27/14,V6.0,dlb,9/20/13,nee,"21""",uit,0,4,8,223 Wh/km,22507,22507,0,"22,507 km",22507,1,95.80%,479,383 km
+Edi99,51,1.67.43,220 Wh/km,,85 kWh,11/7/14,V6.0,edi99,9/23/13,ja,drive unit replaced,,0,20,4,220 Wh/km,52000,34000,18000,"34,000 km",34000,1,95.30%,,381 km
+kbekaert,30,1.65.15,210 Wh/km,,85 kWh,9/26/14,V6.0,kbekaert,9/25/13,nee,,,0,4,3,214 Wh/km,29481,29481,0,"29,481 km",29481,1,96.30%,481,385 km
+x-ray,70,1.67.80,210 Wh/km,B,85 kWh,1/3/15,V6.0,x-ray,9/25/13,nee,"19""  2x drive unit vervangen. 6 maanden op 60% geladen, ervan uitgaande dat dat het beste voltage voor de batterij is. Mogelijk daardoor minder gebalanceerde batterij....?",uit,5,30,40,210 Wh/km,37000,37000,0,"37,000 km",37000,1,93.50%,,374 km
+widodh,21,1.65.15,220 Wh/km,,85 kWh,9/24/14,V6.0,widodh,9/26/13,nee,,,0,30,15,221 Wh/km,49600,49600,0,"49,600 km",49600,1,96.50%,,386 km
+widodh,52,1.67.43,220 Wh/km,,85 kWh,11/7/14,V6.0,widodh,9/27/13,nee,,,0,30,20,221 Wh/km,54000,54000,0,"54,000 km",54000,1,94.30%,,377 km
+widodh,79,,220 Wh/km,B,85 kWh,1/15/15,V6.0,widodh,9/27/13,nee,,,2,50,30,227 Wh/km,59500,59500,0,"59,500 km",59500,1,93.50%,,374 km
+widodh,95,2.0.81,220 Wh/km,B,85 kWh,1/25/15,V6.0,widodh,9/27/13,nee,,uit,2,60,35,224 Wh/km,63000,63000,0,"63,000 km",63000,1,93.50%,,374 km
+e-Rik,54,,,,85 kWh,11/11/14,V5.11,e-rik,11/4/13,nee,,,0,15,5,,21000,21000,0,"21,000 km",21000,1,94.80%,,379 km
+Patrick Claerhout,14,1.65.15,200 Wh/km,,85 kWh,9/22/14,V6.0,patrick claerhout,11/6/13,nee,,,,2,10,207 Wh/km,30650,30650,0,"30,650 km",30650,1,95.80%,479,383 km
+AnalysiZ,13,1.65.15,200 Wh/km,,85 kWh,9/22/14,V6.0,analysiz,11/13/13,,,,,,,200 Wh/km,16045,16045,0,"16,045 km",16045,1,95.80%,479,383 km
+CarlosW,23,1.65.15,230 Wh/km,,60 kWh,9/25/14,V6.0,carlosw,11/13/13,nee,"21"", bij aanschaf typ range 303",,,5,2,231 Wh/km,15300,15300,0,"15,300 km",15300,1,98.30%,365,285 km
+PaulusdB,25,1.65.15,220 Wh/km,,85 kWh,9/25/14,V6.0,paulusdb,11/13/13,nee,"19"" winter - 20"" zomer",,4,12,10,225 Wh/km,21530,21530,0,"21,530 km",21530,1,97.00%,485,388 km
+ebullio,33,1.65.15,230 Wh/km,D,85 kWh,9/27/14,V6.0,ebullio,11/14/13,ja,,,0,11,4,235 Wh/km,22526,13526,9000,"13,526 km",13526,1,97.80%,,391 km
+luckyluke,38,1.65.15,250 Wh/km,,85 kWh,10/1/14,V6.0,luckyluke,11/14/13,nee,"hij ging pas naar 376 toen ik al 6,4km/1,5kWh verbruikt had",,1,15,20,255 Wh/km,36369,36369,0,"36,369 km",36369,1,94.30%,,377 km
+ebullio,97,2.2.113,230 Wh/km,D,85 kWh,1/29/15,V6.1,ebullio,11/14/13,ja,"19""",uit,0,15,6,238 Wh/km,32302,20302,12000,"20,302 km",20302,1,97.00%,,388 km
+redevries,37,1.65.15,210 Wh/km,D,85 kWh,9/30/14,V6.0,redevries,11/15/13,ja,"19""",,0,5,2,219 Wh/km,35244,7244,28000,"7,244 km",7244,1,97.80%,,391 km
+redevries,77,1.65.15,220 Wh/km,D,85 kWh,1/15/15,V6.0,redevries,11/15/13,ja,"19""",aan,2,20,10,229 Wh/km,51700,23700,28000,"23,700 km",23700,1,97.30%,,389 km
+Merijn,4,,220 Wh/km,,85 kWh,9/18/14,V5.13,merijn,11/18/13,nee,,,,,,224 Wh/km,35000,35000,0,"35,000 km",35000,1,95.30%,,381 km
+Merijn,57,1.67.43,220 Wh/km,,85 kWh,11/16/14,V6.0,merijn,11/18/13,nee,"Pas na 1,7 kWh begon de typical range af te nemen. Paar dagen erna rangecharge 379 km en wel direct afname na 1 km...",aan,10,15,30,223 Wh/km,42000,42000,0,"42,000 km",42000,1,95.00%,,380 km
+Merijn,67,1.67.43,220 Wh/km,,85 kWh,12/16/14,V6.0,merijn,11/18/13,nee,"Na 0,3 kWh was de typical al gezakt naar 374.",aan,10,20,30,225 Wh/km,45000,45000,0,"45,000 km",45000,1,94.50%,,378 km
+bpsmits,1,1.65.15,210 Wh/km,,85 kWh,9/18/14,V6.0,bpsmits,11/19/13,nee,"19""",aan,2,25,40,212 Wh/km,33366,33366,0,"33,366 km",33366,1,98.30%,496,393 km
+FVO,41,1.65.15,200 Wh/km,,85 kWh,10/5/14,V6.0,fvo,11/20/13,nee,Met leeg bedoel ik <10km rest (bij vorige Firmware-versie),,5,12,4,209 Wh/km,27000,27000,0,"27,000 km",27000,1,95.50%,,382 km
+RCH1708,5,1.65.13,220 Wh/km,,85 kWh,9/18/14,V6.0,rch1708,11/21/13,nee,"19""",,1,15,30,229 Wh/km,27000,27000,0,"27,000 km",27000,1,95.30%,,381 km
+QueenieEye,50,1.67.43,200 Wh/km,,85 kWh,11/1/14,V6.0,queenieeye,11/22/13,nee,,,0,5,8,202 Wh/km,39000,39000,0,"39,000 km",39000,1,94.30%,472,377 km
+Xfrank,12,1.65.15,200 Wh/km,,60 kWh,9/21/14,V6.0,xfrank,11/23/13,nee,,,1,5,5,207 Wh/km,14995,14995,0,"14,995 km",14995,1,97.90%,362,284 km
+Ruben7113,46,1.65.15,210 Wh/km,D,85 kWh,10/8/14,V6.0,ruben7113,11/23/13,ja,"19""",,0,8,10,218 Wh/km,21600,11600,10000,"11,600 km",11600,1,96.30%,,385 km
+Xfrank,63,1.65.15,200 Wh/km,,60 kWh,11/30/14,V6.0,xfrank,11/23/13,nee,,,1,12,6,208 Wh/km,19700,19700,0,"19,700 km",19700,1,98.30%,362,285 km
+Nulwoning,66,1.65.15,190 Wh/km,D,85 kWh,12/15/14,V6.0,nulwoning,11/23/13,nee,"19"" 3e drive unit",aan,0,50,3,190 Wh/km,45050,45050,0,"45,050 km",45050,1,94.50%,,378 km
+Wim S.,69,1.65.15,210 Wh/km,,85 kWh,1/1/15,V6.0,wim s.,11/23/13,nee,"drive unit replaced, 21""",,0,11,9,219 Wh/km,20500,20500,0,"20,500 km",20500,1,94.50%,,378 km
+Xfrank,85,2.2.92,210 Wh/km,,60 kWh,1/18/15,V6.1,xfrank,11/23/13,nee,,aan,1,35,8,211 Wh/km,23373,23373,0,"23,373 km",23373,1,97.20%,,282 km
+Wim S.,22,1.65.15,210 Wh/km,,85 kWh,9/24/14,V6.0,wim s.,11/25/13,nee,"drive unit replaced, 21""",,0,10,8,219 Wh/km,17800,17800,0,"17,800 km",17800,1,96.50%,,386 km
+in-clusion,92,,220 Wh/km,,85 kWh,1/22/15,V6.1,in-clusion,11/25/13,nee,21 inch P85+,uit,0,25,20,228 Wh/km,36000,36000,0,"36,000 km",36000,1,94.80%,,379 km
+S-19910,6,1.65.13,210 Wh/km,D,85 kWh,9/18/14,V6.0,s-19910,11/26/13,nee,"19""",,1,25,15,218 Wh/km,47352,47352,0,"47,352 km",47352,1,94.30%,472,377 km
+jja,36,1.65.15,190 Wh/km,,85 kWh,9/28/14,V6.0,jja,11/26/13,nee,,,0,6,4,196 Wh/km,20200,20200,0,"20,200 km",20200,1,96.00%,480,384 km
+JoeNe,47,1.65.15,220 Wh/km,,85 kWh,10/9/14,V6.0,joene,11/26/13,nee,"19""",,3,5,10,229 Wh/km,33150,33150,0,"33,150 km",33150,1,94.30%,472,377 km
+JoeNe,98,2.2.112,230 Wh/km,,85 kWh,1/31/15,V6.1,joene,11/26/13,nee,"19""",uit,5,8,14,231 Wh/km,45845,45845,0,"45,845 km",45845,1,97.80%,489,391 km
+HWS,18,1.65.15,240 Wh/km,,85 kWh,9/24/14,V6.0,hws,11/29/13,ja,"nwe motor, 21""",,0,12,10,248 Wh/km,18200,16100,2100,"16,100 km",16100,1,95.30%,,381 km
+gelden,44,1.65.15,260 Wh/km,D,85 kWh,10/6/14,V6.0,gelden,11/29/13,ja,suc/rch ingevuld sinds de nieuwe batterij,,1,3,1,263 Wh/km,29700,3700,26000,"3,700 km",3700,1,96.80%,,387 km
+HWS,75,2.0.77,240 Wh/km,,85 kWh,1/15/15,V6.0,hws,11/29/13,ja,90%=343,uit,0,20,20,249 Wh/km,27876,25776,2100,"25,776 km",25776,1,95.30%,476,381 km
+HWS,81,2.2.105,240 Wh/km,,85 kWh,1/16/15,V6.1,hws,11/29/13,ja,90%=342,uit,0,20,22,249 Wh/km,27906,25806,2100,"25,806 km",25806,1,95.30%,476,381 km
+Hans (Amsterdam),29,1.65.15,200 Wh/km,,85 kWh,9/26/14,V6.0,hans (amsterdam),12/4/13,nee,,,5,14,10,207 Wh/km,24000,24000,0,"24,000 km",24000,1,95.50%,,382 km
+Geert.Snijders,43,1.65.15,230 Wh/km,,85 kWh,10/6/14,V6.0,geert.snijders,12/4/13,nee,Bijna altijd superchargen. Soms beetje gewoon bijladen.,,,45,15,230 Wh/km,21500,21500,0,"21,500 km",21500,1,95.00%,,380 km
+Gepekop,48,1.65.15,230 Wh/km,D,85 kWh,10/14/14,V6.0,gepekop,12/4/13,nee,"drive unit 2x vervangen W:19"" Z:21""",,3,14,16,234 Wh/km,34000,34000,0,"34,000 km",34000,1,95.30%,478,381 km
+ReNe,59,1.67.43,210 Wh/km,,85 kWh,11/24/14,V6.0,rene,12/4/13,nee,21 inch,aan,3,35,20,218 Wh/km,32000,32000,0,"32,000 km",32000,1,95.80%,,383 km
+Willem,39,1.65.15,190 Wh/km,,85 kWh,10/4/14,V6.0,willem,12/6/13,nee,,,2,10,2,193 Wh/km,25050,25050,0,"25,050 km",25050,1,97.80%,,391 km
+Jean,96,2.2.92,210 Wh/km,,85 kWh,1/27/15,V6.1,jean,12/7/13,nee,,uit,0,15,25,212 Wh/km,65065,65065,0,"65,065 km",65065,1,93.30%,,373 km
+Energie Gratiz,17,,,,85 kWh,9/24/14,,energie gratiz,12/10/13,nee,,,2,50,,,73353,73353,0,"73,353 km",73353,1,95.00%,476,380 km
+Zuid5.nl,40,1.65.15,200 Wh/km,,85 kWh,10/4/14,V6.0,zuid5.nl,12/10/13,nee,"19""",,3,18,10,203 Wh/km,23945,23945,0,"23,945 km",23945,1,96.80%,489,387 km
+Zuid5.nl,90,2.2.92,200 Wh/km,,85 kWh,1/21/15,V6.1,zuid5.nl,12/10/13,nee,"19""",aan,,30,14,209 Wh/km,33000,33000,0,"33,000 km",33000,1,96.00%,,384 km
+MjjVonk,20,1.59.56,200 Wh/km,,85 kWh,9/24/14,V5.11,mjjvonk,12/11/13,nee,,,1,25,10,202 Wh/km,33598,33598,0,"33,598 km",33598,1,96.00%,480,384 km
+PaulW5,15,1.65.15,240 Wh/km,,85 kWh,9/23/14,V6.0,paulw5,12/12/13,,,,0,10,15,249 Wh/km,22850,22850,0,"22,850 km",22850,1,96.30%,,385 km
+Keezje,94,2.2.92,230 Wh/km,,85 kWh,1/25/15,V6.1,keezje,12/23/13,nee,"eerste 15.000 op 21""; daarna op 19""; 2x drive unit vervangen",uit,10,30,10,230 Wh/km,33000,33000,0,"33,000 km",33000,1,93.80%,,375 km
+Rprp,11,1.64.39,220 Wh/km,D,85 kWh,9/21/14,V5.12,rprp,12/31/13,nee,"21""",,1,35,35,227 Wh/km,46000,46000,0,"46,000 km",46000,1,95.30%,476,381 km
+kwenix,45,1.65.15,210 Wh/km,,85 kWh,10/8/14,V6.0,kwenix,12/31/13,nee,"19""",,0,3,20,214 Wh/km,21845,21845,0,"21,845 km",21845,1,98.50%,,394 km
+Rprp,78,1.65.15,220 Wh/km,D,85 kWh,1/15/15,V6.0,rprp,12/31/13,nee,21 inch,uit,15,45,50,223 Wh/km,61500,61500,0,"61,500 km",61500,1,93.30%,466,373 km
+pvh,8,1.64.26,240 Wh/km,,85 kWh,9/19/14,V5.12,pvh,3/13/14,nee,"drive unit replaced 8500km, 21"" P+",,2,15,12,245 Wh/km,14977,14977,0,"14,977 km",14977,1,98.80%,,395 km
+KrisB,19,1.65.15,160 Wh/km,,85 kWh,9/24/14,V6.0,krisb,3/26/14,nee,"19""",aan,0,2,1,163 Wh/km,19800,19800,0,"19,800 km",19800,1,96.30%,482,385 km
+KrisB,64,1.67.125,160 Wh/km,,85 kWh,12/5/14,V6.0,krisb,3/26/14,nee,"19""",aan,0,10,3,167 Wh/km,24325,24325,0,"24,325 km",24325,1,96.80%,484,387 km
+Danielk,28,1.65.15,200 Wh/km,,85 kWh,9/26/14,V6.0,danielk,3/28/14,nee,"19""",,0,3,10,206 Wh/km,20509,20509,0,"20,509 km",20509,1,97.00%,485,388 km
+Hans Noordsij,2,1.65.13,,D,85 kWh,9/18/14,V6.0,hans noordsij,3/29/14,nee,,aan,,50,15,,32000,32000,0,"32,000 km",40000,1,98.00%,,392 km
+Hans Noordsij,86,1.67.125,,D,85 kWh,1/19/15,V6.0,hans noordsij,3/29/14,nee,,aan,,50,,,40670,40670,0,"40,670 km",40670,1,96.30%,,385 km
+Alain13,55,1.67.43,220 Wh/km,D,85 kWh,11/13/14,V6.0,alain13,4/11/14,nee,,aan,0,5,5,224 Wh/km,12000,12000,0,"12,000 km",12000,1,97.00%,,388 km
+TTheo,35,1.65.15,200 Wh/km,,60 kWh,9/27/14,V6.0,ttheo,5/7/14,nee,,,0,0,5,205 Wh/km,9161,9161,0,"9,161 km",9161,1,96.60%,356,280 km
+TTheo,82,1.67.43,210 Wh/km,,60 kWh,1/16/15,V6.0,ttheo,5/7/14,nee,"19"" all season",uit,1,0,8,216 Wh/km,14267,14267,0,"14,267 km",14267,1,93.80%,347,272 km
+Bram,61,1.65.15,200 Wh/km,,85 kWh,11/26/14,V6.0,bram,5/25/14,nee,"19""",,0,20,2,205 Wh/km,14000,14000,0,"14,000 km",14000,1,97.80%,,391 km
+BasvdPoel,16,1.65.15,210 Wh/km,,85 kWh,9/24/14,V6.0,basvdpoel,5/28/14,nee,,,1,1,3,216 Wh/km,6053,6053,0,"6,053 km",6053,1,98.00%,,392 km
+BasvdPoel,71,1.65.15,220 Wh/km,,85 kWh,1/6/15,V6.0,basvdpoel,5/28/14,nee,"19"" typical range at 90%=346",,2,2,5,226 Wh/km,10000,10000,0,"10,000 km",10000,1,97.80%,,391 km
+philhill,31,1.65.15,240 Wh/km,,85 kWh,9/26/14,V6.0,philhill,6/4/14,nee,"20""",,1,1,4,247 Wh/km,6548,6548,0,"6,548 km",6548,1,96.30%,485,385 km
+Anco,27,1.65.15,210 Wh/km,,85 kWh,9/26/14,V6.0,anco,6/5/14,nee,"19""",,0,0,5,215 Wh/km,4397,4397,0,"4,397 km",4397,1,98.00%,,392 km
+selsrog,26,1.65.15,230 Wh/km,D,85 kWh,9/25/14,V6.0,selsrog,6/20/14,nee,,,0,1,1,235 Wh/km,8598,8598,0,"8,598 km",8598,1,97.00%,486,388 km
+selsrog,87,2.2.92,,D,85 kWh,1/19/15,V6.1,selsrog,6/20/14,nee,,uit,2,10,3,,18500,18500,0,"18,500 km",18500,1,95.30%,,381 km
+Janc,3,1.65.13,210 Wh/km,,85 kWh,9/18/14,V6.0,janc,6/24/14,,,,,,,215 Wh/km,7100,7100,0,"7,100 km",7100,1,97.80%,,391 km
+pvandamcom,10,1.65.15,220 Wh/km,,85 kWh,9/20/14,V6.0,pvandamcom,8/16/14,nee,,,,,7,224 Wh/km,3434,3434,0,"3,434 km",3434,1,98.50%,492,394 km
+pvandamcom,56,1.67.80,220 Wh/km,,85 kWh,11/14/14,V6.0,pvandamcom,8/16/14,nee,"Datum invoer even een week teruggezet, voordat ik 3000km trips ging maken",uit,3,8,10,229 Wh/km,8000,8000,0,"8,000 km",8000,1,97.00%,,388 km
+ErikR,42,1.65.15,240 Wh/km,D,85 kWh,10/6/14,V6.0,erikr,9/30/14,nee,,uit,0,1,3,244 Wh/km,1136,1136,0,"1,136 km",1136,1,99.80%,,399 km
+ErikR,49,1.67.43,240 Wh/km,D,85 kWh,10/30/14,V6.0,erikr,9/30/14,nee,,uit,0,7,4,244 Wh/km,4517,4517,0,"4,517 km",4517,1,98.50%,,394 km
+ErikR,58,1.67.43,250 Wh/km,D,85 kWh,11/22/14,V6.0,erikr,9/30/14,nee,,uit,0,7,5,251 Wh/km,7024,7024,0,"7,024 km",7024,1,98.30%,,393 km
+ErikR,65,1.67.43,250 Wh/km,D,85 kWh,12/11/14,V6.0,erikr,9/30/14,nee,,uit,0,7,6,258 Wh/km,9732,9732,0,"9,732 km",9732,1,98.30%,,393 km
+ErikR,83,1.67.43,260 Wh/km,D,85 kWh,1/17/15,V6.0,erikr,9/30/14,nee,,uit,0,7,7,265 Wh/km,12199,12199,0,"12,199 km",12199,1,98.00%,,392 km
+ErikR,91,2.2.113,260 Wh/km,D,85 kWh,1/22/15,V6.1,erikr,9/30/14,nee,,uit,0,9,8,265 Wh/km,13425,13425,0,"13,425 km",13425,1,97.80%,,391 km
+Erik-S85,100,2.2.113,240 Wh/km,,85 kWh,2/2/15,V6.1,erik-s85,11/25/14,nee,,uit,0,8,3,245 Wh/km,7330,7330,0,"7,330 km",7330,1,97.80%,,391 km
+brderyck,68,2.0.77,260 Wh/km,,85 kWh,12/23/14,V6.0,brderyck,12/13/14,nee,"hoog vebruik komt voornamelijk door het spelen deze 1e week, bij normaal gebruik op 230",uit,0,1,1,261 Wh/km,950,950,0,950 km,950,1,98.50%,490,394 km
+HansBe,74,1.67.43,250 Wh/km,,85 kWh,1/15/15,V6.0,hansbe,12/13/14,nee,"19""",uit,0,0,1,253 Wh/km,2650,2650,0,"2,650 km",2650,1,98.30%,,393 km
+brderyck,72,2.0.88,260 Wh/km,,85 kWh,1/15/15,V6.0,brderyck,12/13/14,nee,,uit,1,7,4,261 Wh/km,3600,3600,0,"3,600 km",3600,1,98.50%,490,394 km
+Thor,84,2.0.77,240 Wh/km,E,85 kWh,1/18/15,V6.0,thor,12/17/14,nee,"19"" obv 90%=356",aan,0,5,2,244 Wh/km,4178,4178,0,"4,178 km",4178,1,99.50%,497,398 km
+Thor,99,2.2.115,250 Wh/km,E,85 kWh,1/31/15,V6.1,thor,12/17/14,nee,"19""",uit,0,10,2,250 Wh/km,5500,5500,0,"5,500 km",5500,1,98.80%,,395 km
+Dimivdb,73,2.0.77,270 Wh/km,,85 kWh,1/15/15,V6.0,dimivdb,12/30/14,nee,21 inch,aan,0,3,1,278 Wh/km,980,980,0,980 km,980,1,98.50%,,394 km
+pvh,88,2.2.92,240 Wh/km,,85 kWh,1/20/15,V6.1,pvh,1/19/15,nee,"drive unit replaced 8500km, 21"" P+",uit,2,20,15,248 Wh/km,23056,23056,0,"23,056 km",23056,1,96.00%,480,384 km
